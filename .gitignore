@@ -1,2 +1,57 @@
-node_modules/
-.env
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LoyalRaph - Human-Centered AI App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f5;
+    }
+    header {
+      background-color: #3b3b98;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    section {
+      padding: 2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #3b3b98;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to LoyalRaph</h1>
+    <p>Your smart, human-centered assistant built for joy</p>
+  </header>
+
+  <section>
+    <h2>About LoyalRaph</h2>
+    <p>LoyalRaph is an AI-powered app that helps users manage emotional wellness and productivity with a personal, joyful touch. It’s like having a loyal friend who understands you.</p>
+  </section>
+
+  <section>
+    <h2>Features Coming Soon</h2>
+    <ul>
+      <li>Daily check-ins for mood and mindset</li>
+      <li>Uplifting messages & goal tracking</li>
+      <li>Custom AI chats for encouragement and ideas</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Built with ❤️ by Ustineraph for PLP Vibe Hackathon</p>
+  </footer>
+
+</body>
+</html>
+
